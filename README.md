@@ -18,9 +18,7 @@ A web app to understand OS concepts like threads, processes, and deadlocks.
 ## Getting Started
 
 **Online**:
-```
-https://haggaiyes.github.io/threadforge/
-```
+https://haggaiyes.github.io/ThreadForge/
 
 **Locally**: 
 1. Download or clone the repo
