@@ -19,7 +19,7 @@ A web app to understand OS concepts like threads, processes, and deadlocks.
 
 **Online**:
 ```
-https://your-username.github.io/threadforge/
+https://haggaiyes.github.io/threadforge/
 ```
 
 **Locally**: 
